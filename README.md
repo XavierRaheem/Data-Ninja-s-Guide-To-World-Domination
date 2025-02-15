@@ -1,4 +1,4 @@
-# Data-Ninja-s-Guide-To-World-Domination
+# Data Ninja's Guide To World Domination
 Python EDA and Model Testing
 As an anime enthusiast, I aimed to blend that with my love of data. In true "isekai" fashion... *cue long title*
 
